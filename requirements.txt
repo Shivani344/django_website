@@ -1,5 +1,3 @@
-nltk==3.7
-streamlit==1.16.0
-sklearn
-scikit-learn
+nltk==3.8
+streamlit==1.21.0
 stopwords
